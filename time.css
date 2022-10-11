@@ -21,7 +21,6 @@ h1 {
   font-size: 3rem;
   font-weight: 700;
   margin: 40px 0 10px;
-  letter-spacing: 1vh;
 }
 p #deadline {
   color: var(--clr-1);
